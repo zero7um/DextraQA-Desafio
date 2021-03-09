@@ -2,7 +2,7 @@
 
 <h2>Apresentação</h2>
 
-Este projeto foi desenvolvido afim de entregar a resolução do desafio proposto pela Dextra para a posição de QA Engineer e conta com a resolução das perguntas propostas nos arquivos anexados:
+Este projeto foi desenvolvido com o objetivo de entregar a resolução do desafio proposto pela Dextra para a posição de QA Engineer e conta com a resolução das perguntas propostas nos arquivos anexados:
 
 [Arquivo com respostas 1](https://github.com/zero7um/DextraQA-Desafio/blob/main/attachments/Quest%C3%B5es_Dextra_-_v2.docx.pdf)
 
